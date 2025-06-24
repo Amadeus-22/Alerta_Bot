@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico com o objetivo d
 - Python 3.10+
 - Django 4.x
 - SQLite (banco padrão do Django)
-- API pública de clima: [Open-Meteo](https://open-meteo.com/)
+- API pública de Clima 
 - Bot do Telegram
 
 ---
